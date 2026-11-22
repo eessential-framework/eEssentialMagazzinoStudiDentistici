@@ -1,4 +1,4 @@
-eEssential – Magazzino Studio Dentistico | Sito vetrina
+eEssential – Smart Dental Inventory | Sito vetrina
 
 Pubblicazione:
 Caricare l'intera cartella mantenendo la struttura:
